@@ -425,7 +425,7 @@ class MLPClassifier():
       plt.legend(loc="lower right")
     plt.show()
 
-"""# **Question 1**
+
 
 Model Variables
 """
